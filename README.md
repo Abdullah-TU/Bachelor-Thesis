@@ -1,7 +1,7 @@
 # Bachelor Thesis
 
 <h2>Here is my bachelor Thesis.</h2>
-<h3># Thesis topic:</h3>
+<h3>Thesis topic:</h3>
 
 <h4>Know Finnish: Android Application to Learn Finnish Language</h4>
 
